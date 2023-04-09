@@ -48,7 +48,7 @@
 .spin{
     display:flex;
     justify-content: center;
-    margin-bottom: 45px;
+    margin-bottom: 20px;
 }
 @keyframes rotate{
  30%{
