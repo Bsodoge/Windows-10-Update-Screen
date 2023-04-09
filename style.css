@@ -18,3 +18,16 @@
     justify-content: end;
     height:50%;
 }
+.text-under-spin{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    height: 50%;
+ }
+  .bottom-text{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    padding: 50px;
+}
