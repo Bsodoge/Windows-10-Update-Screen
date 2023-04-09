@@ -12,3 +12,9 @@
     justify-content: end;
     color: white;    
 }
+.text-container{
+    display:flex;
+    flex-direction: column;
+    justify-content: end;
+    height:50%;
+}
