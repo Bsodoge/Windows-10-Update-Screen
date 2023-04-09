@@ -17,6 +17,8 @@
     flex-direction: column;
     justify-content: end;
     height:50%;
+    padding: 8px;
+    gap: 35px;
 }
 .text-under-spin{
     display: flex;
@@ -39,8 +41,8 @@
 }
 .load .dot{
     top: 30px;
-    height: 7px;
-    width: 7px;
+    height: 3.5px;
+    width: 3.5px;
     background: white;
     border-radius: 50%;
     position: relative;
@@ -48,7 +50,7 @@
 .spin{
     display:flex;
     justify-content: center;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 @keyframes rotate{
  30%{
