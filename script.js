@@ -1,0 +1,1 @@
+let percentage = document.getElementById('percentage');
