@@ -4,3 +4,11 @@
     font-family: Segoe UI Light,Segoe UI,Arial;
     font-size: 22px;
 }
+.container{
+    background-color: #006dae;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    color: white;    
+}
