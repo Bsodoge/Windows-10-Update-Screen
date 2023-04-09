@@ -41,8 +41,8 @@
 }
 .load .dot{
     top: 30px;
-    height: 3.5px;
-    width: 3.5px;
+    height: 6px;
+    width: 6px;
     background: white;
     border-radius: 50%;
     position: relative;
